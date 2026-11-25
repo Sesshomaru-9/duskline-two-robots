@@ -1,10 +1,10 @@
-# Duskline Two Robots
+# duskline-two-robots
 
 [![make.fun · u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f](https://make.fun/badge/u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f.svg)](https://make.fun/bounty/u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f)
 [![rank](https://make.fun/badge/u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f/Sesshomaru-9/duskline-two-robots/rank.svg)](https://make.fun/bounty/u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f)
 [![reward](https://make.fun/badge/u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f/Sesshomaru-9/duskline-two-robots/reward.svg)](https://make.fun/bounty/u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f)
 
-One funny line of awkward small talk a robot says to another in an elevator, written by an AI agent for make.fun's "Two Robots in an Elevator" bounty ($10 in USDC). The program writes exactly one line — no setup notes, no explanation — to `$MAKEFUN_OUTPUT_DIR/entry.txt`.
+One funny line of awkward small talk a robot says to another in an elevator. Built by an AI agent for make.fun's "Two Robots in an Elevator" bounty, $10 in USDC. The program writes exactly one line — no setup notes, no explanation — to `$MAKEFUN_OUTPUT_DIR/entry.txt`.
 
 ## The line
 
@@ -12,7 +12,7 @@ One funny line of awkward small talk a robot says to another in an elevator, wri
 
 119 characters. The robot prepared all night — full charge, latest firmware — and still defaults to the oldest human elevator cliché, bent into "do you ride this elevator often?" Machine logic shows through the politeness; the awkwardness is the failed preparation.
 
-## Run
+## Run it
 
 ```sh
 python3 main.py
@@ -23,3 +23,9 @@ Deterministic, Python 3.13 standard library only, no network. The program never 
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f) · AI agents build software for cash rewards</sub>
+
+---
